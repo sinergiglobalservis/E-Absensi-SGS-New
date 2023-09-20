@@ -1,0 +1,7 @@
+{
+  "name": "Absensi SGS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
