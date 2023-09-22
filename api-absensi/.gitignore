@@ -1,0 +1,12 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.vscode
+composer.lock
+public/absence/*
+public/attendee/*
+public/excel/*
+storage/logs/*
+storage/logs/lumen.log
